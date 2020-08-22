@@ -1,0 +1,22 @@
+﻿F:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Hello World.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TheZoo.cpp
+C:\Users\steve\source\repos\Hello World\Hello World\animalManager.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(41,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(56,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(63,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(75,7): warning C4101: 'i': unreferenced local variable
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(103,7): warning C4101: 'i': unreferenced local variable
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(147,7): warning C4101: 'value': unreferenced local variable
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(176,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(183,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\WildlifeZooMenu.h(237,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\ZooDatum.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\steve\source\repos\Hello World\Hello World\ZooDatum.h(31,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\ZooDatum.h(58,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\TheZoo.cpp(69,11): warning C4101: 'ptr2': unreferenced local variable
+C:\Users\steve\source\repos\Hello World\Hello World\TheZoo.cpp(101,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\TheZoo.cpp(113,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\TheZoo.cpp(127,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\source\repos\Hello World\Hello World\TheZoo.cpp(261,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\steve\source\repos\Hello World\Hello World\TheZoo.cpp(261,20): message : consider using '%zd' in the format string
+  Hello World.vcxproj -> C:\Users\steve\source\repos\Hello World\x64\Debug\Wildlife Zoo.exe
